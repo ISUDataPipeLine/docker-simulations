@@ -1,21 +1,12 @@
 # docker-simulations
-Repository for temperature and humidity data simulation and IOT integration examples
+Repository for temperature and humidity data simulation and IOT integration examples.
+
+## Prerequisites
+Docker installed on your computer. (You can download it from Docker’s official website.)
+Basic understanding of Python and Docker.
+
 ## Clone the repository 
+```
 git clone https://github.com/ISUDataPipeLine/docker-simulations.git
-cd docker-simulations
-Contains subdirectories for each example
-## 1.st example:
-
-The structure now looks like this:
-
-docker-simulations/
- 
-└── simple-example/
-
-     ├── Dockerfile
-
-     ├── app.py
-
-     └── requirements.txt
-
+```
 
